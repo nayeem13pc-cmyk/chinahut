@@ -63,11 +63,7 @@ export default function AdminLogin() {
             </button>
           </form>
 
-          <p className="text-xs text-gray-400 text-center mt-4">
-            Default password: <code className="bg-gray-100 px-1 rounded">chinahut2024</code>
-            <br />
-            <span className="text-amber-600">Change via NEXT_PUBLIC_ADMIN_PASSWORD env var</span>
-          </p>
+          
         </div>
       </div>
     </div>
